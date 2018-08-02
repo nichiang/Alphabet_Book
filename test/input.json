@@ -1,0 +1,22 @@
+{
+  "session": {
+    "sessionId": "SessionId.Session1",
+    "application": {
+      "applicationId": "amzn1.ask.skill.558c30f2-4b07-4d30-81d1-1db07ef5f136"
+    },
+    "user": {
+      "userId": "amzn1.ask.account.testaccount1"
+    },
+    "new": true
+  },
+  "request": {
+    "type": "IntentRequest",
+    "requestId": "EdwRequestId.TestSession1",
+    "timestamp": "2016-05-19T01:07:55Z",
+    "intent": {
+      "name": "GetWordIntent"
+    },
+    "locale": "en-US"
+  },
+  "version": "1.0"
+}

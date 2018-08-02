@@ -1,0 +1,20 @@
+{
+  "manifest": {
+    "publishingInformation": {
+      "locales": {
+        "en-US": {
+          "name": "Alphabet Book"
+        }
+      }
+    },
+    "apis": {
+      "custom": {
+        "endpoint": {
+          "sourceDir": ".\\lambda\\us-east-1_ask-alphabet-book"
+        },
+        "interfaces": []
+      }
+    },
+    "manifestVersion": "1.0"
+  }
+}
